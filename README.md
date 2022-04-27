@@ -54,6 +54,8 @@ We made a website to make create awareness about the cause. <br/>
 * Browser Extension to reach masses while providing fundamental features in an extension on e-Commerce giants like Amazon.
 
 ## Built With
+- deep learning 
+- neural network
 - machine-learning
 - python
 - canva
